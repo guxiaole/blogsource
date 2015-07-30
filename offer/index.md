@@ -1,15 +1,23 @@
 title: offer
 date: 2015-07-02 13:27:16
 ---
+<style> 
+.divcss5{text-align:center} 
+</style> 
 
-<blockquote class="blockquote-center">这里只是方便自己快速滚到常去的地方</blockquote>
+<div class="divcss5">这里只是方便自己快速滚到常去的地方</div>
+<div class="divcss5">updating...</div>
 
+
+<blockquote class="blockquote-center"></blockquote>
+
+-------
 
 <blockquote class="blockquote-center"> [百度](https://www.baidu.com)
 [优酷](http://www.youku.com/)  ** [哔哩哔哩](http://www.bilibili.com/)** 
 [淘宝](http://www.taobao.com/) **[天猫](http://www.tmall.com/)** [京东](http://www.jd.com/) ***[亚马逊](http://www.amazon.cn/)***  [当当](http://www.dangdang.com/)
 [github](https://github.com)
-[开源镜像网站](http://guxiaole.github.io/2015/07/02/3/)
+[开源镜像网站](http://guxiaole.github.io/2015/07/05/3/)
 [glgoo](http://www.iglgoo.com/)**[简易谷歌](http://uc.my/)**[拇指搜索](http://muzhiso.com/)
 **[github Rank](http://githuber.info)**  [github Rank](http://githubrank.com/)
 [微博](http://weibo.com/)
