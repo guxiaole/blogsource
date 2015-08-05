@@ -4,6 +4,7 @@ tags:
 - git
 categories: 技术记录
 ---
+![](http://7xk15u.com1.z0.glb.clouddn.com/gitgit-t-shirt.png)
 
 ## 前言
 Git 确实是很好的版本管理系统。有关其优点这里暂时不说了，网上也有很多相关资料介绍。

@@ -4,7 +4,7 @@ tags:
 - python
 categories: 技术记录
 ---
-![](http://7xk15u.com1.z0.glb.clouddn.com/studypython.png)
+![](http://7xk15u.com1.z0.glb.clouddn.com/pythonpython.png)
           本篇介绍PEP8 Python 编码规范
 
 <!-- more -->

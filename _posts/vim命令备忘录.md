@@ -5,6 +5,7 @@ tags:
 - 技术记录
 categories: 技术记录
 ---
+![](http://7xk15u.com1.z0.glb.clouddn.com/vim-cheat-sheet-full.png)
 ###替换命令
 * 全部替换：*** :%s/old_str/new_str/g ***
 
